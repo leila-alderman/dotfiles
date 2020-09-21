@@ -1,0 +1,23 @@
+# See https://paper.dropbox.com/doc/Git-Commit-Messages-BErOHul855NLuRiU1EbNr
+# Gateway Name: Short Summary: ###################
+
+
+# ^^^^ line above intentionally blank
+# Full Description: ####################################################
+
+
+# Ticket Number
+CE-
+
+# Unit test output
+Unit:
+
+
+# Remote test output
+Remote:
+
+
+# rake test:local output
+All unit tests:
+
+
